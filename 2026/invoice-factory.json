@@ -1,0 +1,14 @@
+{
+  "name": "Invoice Factory",
+  "url": "https://apps.apple.com/us/app/id6744819252?utm_source=indie-goodies&utm_campaign=bfcm2026",
+  "description": "All-in-one invoice maker and bookkeeping app for freelancers, self-employed professionals and small business owners.",
+  "category": "business",
+  "platforms": ["ios", "ipad"],
+  "deal": "50% off the first year of the Premium annual plan. $179.99 → $89.99 US pricing; local prices vary. No code needed.",
+  "pricing": "annual",
+  "price": { "regular": 179.99, "sale": 89.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-05",
+  "endDate": "2026-12-06",
+  "icon": "https://invoicefactory.app/invoice-factory.png"
+}
